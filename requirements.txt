@@ -1,3 +1,4 @@
+colorama
 pdfminer.six
 pandas
 pyqt5
