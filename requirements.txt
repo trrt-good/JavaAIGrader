@@ -4,3 +4,6 @@ pandas
 pyqt5
 openpyxl
 tqdm
+openai
+anthropic
+groq
