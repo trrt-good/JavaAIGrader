@@ -6,19 +6,21 @@ The Java AI Grader is a Python tool for grading student Java code submissions us
 
 ## Usage
 
-1. Create a scoring sheet that tells the AI how to grade
+1. Modify config.json with your API key(s) from the model providers of your choice. Only one is necessary: [OpenAI (PAID)](https://openai.com/index/openai-api/), [Groq (FREE)](https://console.groq.com/keys), [Anthropic (PAID)](https://www.anthropic.com/api)
 
-2. Repare the assignment PDF that was given to students
+2. Create a scoring sheet that tells the AI how to grade
 
-3. Run the app
+3. Repare the assignment PDF that was given to students
 
-4. Upload scoring sheet, assignment pdf, and folder that contains student Java files
+4. Run the app
 
-4. Choose an directory to output the grading brakedowns to
+5. Upload scoring sheet, assignment pdf, and folder that contains student Java files
 
-6. Run the grader and review results.
+6. Choose an directory to output the grading brakedowns to
 
-7. Export results as a table in csv, xlsx, or tsv format.
+7. Run the grader and review results.
+   
+8. Export results as a table in csv, xlsx, or tsv format.
 
 ## Things to note
 
