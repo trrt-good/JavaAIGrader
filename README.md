@@ -8,7 +8,7 @@ The Java AI Grader is a Python tool for grading student Java code submissions us
 
 1. Modify config.json with your API key(s) from the model providers of your choice. Only one is necessary: [OpenAI (PAID)](https://openai.com/index/openai-api/), [Groq (FREE)](https://console.groq.com/keys), [Anthropic (PAID)](https://www.anthropic.com/api)
 
-2. Create a scoring sheet that tells the AI how to grade
+2. Create a scoring sheet that tells the AI how to grade (see [example](https://github.com/trrt-good/JavaAIGrader/tree/main/example_scoring_sheet.md))
 
 3. Repare the assignment PDF that was given to students
 
